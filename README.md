@@ -14,7 +14,7 @@ This project is a personal project created using React, integrating Google's CCO
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/technothakur1987/detectme.git
    cd your-repo
    
 
@@ -41,7 +41,7 @@ To run this project locally, follow these steps:
 ## Contributing
 Contributions are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Webiste
+## Website
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
