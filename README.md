@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 Contributions are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Website
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://detectme2024.netlify.app/)
 
 
 
